@@ -24,5 +24,5 @@ The python script <code>time_profile.py</code> generates a file containing the p
 The script <code>process.R</code> also contains the instructions for making the topics-time distributions. 
 
 <h2>Datasets</h2>
-Under <code>./FILES/</code> we stored all the current files used for analyzing the StackOverflow java security posts, including a sqlite database with the posts-topics information. This database is useful for retrieving specific data.
+Under the <code>./FILES/</code> directory we stored all the current files used for analyzing the StackOverflow java security posts, including a sqlite database with the posts-topics information. This database is useful for retrieving specific data.
 
