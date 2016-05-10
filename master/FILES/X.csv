@@ -1,0 +1,145 @@
+,names,rates,values
+1,maven dependency,Replied,84.375
+2,RSA Encryption,Replied,93.8423645320197
+3,authentation,Replied,82.803738317757
+4,OS,Replied,83.4532374100719
+5,JavaScript and jQuery ,Replied,89.6694214876033
+6,Spring Security,Replied,89.7727272727273
+7,SSL,Replied,86.8686868686869
+8,jnlp,Replied,73.8938053097345
+9,Cipher suite,Replied,82
+10,applet application ,Replied,87.4715261958998
+11,spring authentation,Replied,88.7759611135661
+12,Servlets and JSP,Replied,86.5336658354115
+13,Secure Password ,Replied,94.574780058651
+14,java.awt.event,Replied,81.6326530612245
+15,signature,Replied,84.5814977973568
+16,spring security  and database,Replied,83.2317073170732
+17,ssl keystore,Replied,87.2881355932203
+18,microsoft metadata,Replied,68.9655172413793
+19,public private classes,Replied,95.0617283950617
+20,proxy,Replied,83.1858407079646
+21,SOAP,Replied,76.7567567567568
+22,Apache server,Replied,79.6296296296296
+23,finalmap initialmap,Replied,77.7777777777778
+24,Jboss add mysql,Replied,87.9194630872483
+25,maven dependency,Relevant,40.625
+26,RSA Encryption,Relevant,55.6650246305419
+27,authentation,Relevant,47.2897196261682
+28,OS,Relevant,52.757793764988
+29,JavaScript and jQuery ,Relevant,54.5454545454545
+30,Spring Security,Relevant,54.5454545454545
+31,SSL,Relevant,41.4141414141414
+32,jnlp,Relevant,44.6902654867257
+33,Cipher suite,Relevant,46
+34,applet application ,Relevant,53.3599088838269
+35,spring authentation,Relevant,51.7012814847548
+36,Servlets and JSP,Relevant,49.3765586034913
+37,Secure Password ,Relevant,58.3577712609971
+38,java.awt.event,Relevant,30.6122448979592
+39,signature,Relevant,50.6607929515419
+40,spring security  and database,Relevant,44.2073170731707
+41,ssl keystore,Relevant,51.1299435028249
+42,microsoft metadata,Relevant,44.8275862068966
+43,public private classes,Relevant,70.5761316872428
+44,proxy,Relevant,38.0530973451327
+45,SOAP,Relevant,49.7297297297297
+46,Apache server,Relevant,43.5185185185185
+47,finalmap initialmap,Relevant,50
+48,Jboss add mysql,Relevant,48.3221476510067
+49,maven dependency,Unanswered,41.875
+50,RSA Encryption,Unanswered,30.5418719211823
+51,authentation,Unanswered,33.6448598130841
+52,OS,Unanswered,28.537170263789
+53,JavaScript and jQuery ,Unanswered,31.404958677686
+54,Spring Security,Unanswered,34.0909090909091
+55,SSL,Unanswered,44.4444444444444
+56,jnlp,Unanswered,27.8761061946903
+57,Cipher suite,Unanswered,34
+58,applet application ,Unanswered,30.0683371298405
+59,spring authentation,Unanswered,33.2744144940345
+60,Servlets and JSP,Unanswered,35.9102244389027
+61,Secure Password ,Unanswered,28.0058651026393
+62,java.awt.event,Unanswered,44.8979591836735
+63,signature,Unanswered,32.15859030837
+64,spring security  and database,Unanswered,38.109756097561
+65,ssl keystore,Unanswered,35.0282485875706
+66,microsoft metadata,Unanswered,24.1379310344828
+67,public private classes,Unanswered,21.8106995884774
+68,proxy,Unanswered,44.2477876106195
+69,SOAP,Unanswered,25.4054054054054
+70,Apache server,Unanswered,35.1851851851852
+71,finalmap initialmap,Unanswered,27.7777777777778
+72,Jboss add mysql,Unanswered,38.9261744966443
+73,maven dependency,Favorite,19.375
+74,RSA Encryption,Favorite,33.743842364532
+75,authentation,Favorite,32.5233644859813
+76,OS,Favorite,25.6594724220624
+77,JavaScript and jQuery ,Favorite,22.7272727272727
+78,Spring Security,Favorite,32.9545454545455
+79,SSL,Favorite,14.1414141414141
+80,jnlp,Favorite,23.0088495575221
+81,Cipher suite,Favorite,24
+82,applet application ,Favorite,27.2779043280182
+83,spring authentation,Favorite,30.7998232434821
+84,Servlets and JSP,Favorite,29.426433915212
+85,Secure Password ,Favorite,31.3782991202346
+86,java.awt.event,Favorite,13.265306122449
+87,signature,Favorite,33.4801762114537
+88,spring security  and database,Favorite,29.2682926829268
+89,ssl keystore,Favorite,31.0734463276836
+90,microsoft metadata,Favorite,24.1379310344828
+91,public private classes,Favorite,41.1522633744856
+92,proxy,Favorite,14.1592920353982
+93,SOAP,Favorite,30.8108108108108
+94,Apache server,Favorite,26.8518518518519
+95,finalmap initialmap,Favorite,25
+96,Jboss add mysql,Favorite,27.5167785234899
+97,maven dependency,NoResponse,15.625
+98,RSA Encryption,NoResponse,6.1576354679803
+99,authentation,NoResponse,17.196261682243
+100,OS,NoResponse,16.5467625899281
+101,JavaScript and jQuery ,NoResponse,10.3305785123967
+102,Spring Security,NoResponse,10.2272727272727
+103,SSL,NoResponse,13.1313131313131
+104,jnlp,NoResponse,26.1061946902655
+105,Cipher suite,NoResponse,18
+106,applet application ,NoResponse,12.5284738041002
+107,spring authentation,NoResponse,11.2240388864339
+108,Servlets and JSP,NoResponse,13.4663341645885
+109,Secure Password ,NoResponse,5.42521994134897
+110,java.awt.event,NoResponse,18.3673469387755
+111,signature,NoResponse,15.4185022026432
+112,spring security  and database,NoResponse,16.7682926829268
+113,ssl keystore,NoResponse,12.7118644067797
+114,microsoft metadata,NoResponse,31.0344827586207
+115,public private classes,NoResponse,4.93827160493827
+116,proxy,NoResponse,16.8141592920354
+117,SOAP,NoResponse,23.2432432432432
+118,Apache server,NoResponse,20.3703703703704
+119,finalmap initialmap,NoResponse,22.2222222222222
+120,Jboss add mysql,NoResponse,12.0805369127517
+121,maven dependency,Unrelated,1.875
+122,RSA Encryption,Unrelated,7.63546798029557
+123,authentation,Unrelated,1.86915887850467
+124,OS,Unrelated,2.15827338129496
+125,JavaScript and jQuery ,Unrelated,3.71900826446281
+126,Spring Security,Unrelated,1.13636363636364
+127,SSL,Unrelated,1.01010101010101
+128,jnlp,Unrelated,1.32743362831858
+129,Cipher suite,Unrelated,2
+130,applet application ,Unrelated,4.04328018223235
+131,spring authentation,Unrelated,3.80026513477684
+132,Servlets and JSP,Unrelated,1.24688279301746
+133,Secure Password ,Unrelated,8.21114369501466
+134,java.awt.event,Unrelated,6.12244897959184
+135,signature,Unrelated,1.76211453744493
+136,spring security  and database,Unrelated,0.914634146341463
+137,ssl keystore,Unrelated,1.12994350282486
+138,microsoft metadata,Unrelated,3.44827586206897
+139,public private classes,Unrelated,2.67489711934156
+140,proxy,Unrelated,0.884955752212389
+141,SOAP,Unrelated,1.62162162162162
+142,Apache server,Unrelated,0.925925925925926
+143,finalmap initialmap,Unrelated,2.77777777777778
+144,Jboss add mysql,Unrelated,0.671140939597315

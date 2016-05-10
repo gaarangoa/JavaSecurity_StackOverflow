@@ -1,0 +1,26 @@
+,# Topic,Share,Informatic words
+0,windows debuger,0.014370541,"debug, exec, window, filterchainproxi"
+1,maven dependency,0.034357026,version depend artifactid groupid org spring plugin releas maven compil scope springframework apach jar secur exclus project common core build http
+2,RSA Encryption,0.047342977,byte string cipher key new encrypt public decrypt length return crypto java int rsa static getinst final data catch import gener tri privat system
+3,authentation,0.039957406,authent public user configur login new return http request string throw spring password token void secur class session usernam overrid except protect auth extend antmatch logout privat
+4,OS,0.024370441,file java system new string println permiss import secur tri read polici except catch code public path run access null io class properti line void error
+5,JavaScript and jQuery ,0.008292511,type valu html input form name page javascript imag text string script url content http var data jsp div function request id post get queri method
+6,Spring Security,0.009332789,ldap secur grail weblog authent kerbero com env name context user string javax true debug domain new subject auth fals default jndi uid path
+7,SSL,0.023034367,java ssl sun net secur http sslsocketimpl apach protocol intern handshak connect client sourc cxf jetti googl javax mortbay httpclient handl httpurlconnect axi call url
+8,jnlp,0.004377989,jar sourc unknown sun applet com java jnlp secur http deploy href lib file version resourc run certif class manifest lang main applic cach javaw name
+9,Cipher suite,0.158185783,cipher suit info gradl length
+10,applet application problem,0.189655214,java secur file run applet applic work will tri code instal get window set problem sign updat start like user version issu oracl browser
+11,spring authentation,0.03879682,use server secur applic client java user need web servic http spring app authent api
+12,Servlets and JSP,0.067261287,name secur role user login web url pattern resourc http page xml method authent constraint auth servlet form config realm password access admin usernam map valu jsp error group
+13,Secure Password ,0.008188556,password use can key encrypt user store data will hash file string android attack secur code way gener random like make databas one need want number valu time protect
+14,java.awt.event,0.018771553,java awt applet swing eventqueu imag javax privat eventdispatchthread workspac event
+15,signature,0.03026636,new certif keystor public signatur java secur string null cert privat getinst key sign throw verifi sslcontext chain bouncycastl
+16,spring security  and database,0.031801525,bean org springframework secur http class name filter spring www schema context web properti valu ref param servlet xml id url authent pattern xmln com annot config map access
+17,ssl keystore,0.002517319,cert ssl keystore server ca trust use http client valid secur cert com connect file key mail java keytool import net cacert sign lib path port truststore jre
+18,microsoft metadata,0.0492482,microsoft metadata name dll size checksum exe verfileo
+19,public static final field and  private static variable ,0.011021991,class method public object string privat java field access return implement new thread static package valu final creat secur
+20,apache related framework,0.017017227,org java apach springframework catalina web core factori secur util servlet dofilt invok tomcat abstractautowirecapablebeanfactori context containerbas abstractbeanfactori filterchainproxi applicationfilterchain lang threadpoolexecutor concurr frameworkservlet method
+21,SOAP,0.011176878,http org ws soap xmln secur saml oasi www xml wss servic bind header messag usernam doc wsse ds mule schema password name xsd open
+22,Apache server,0.004028469,java com sun org lang rmi intern run invok secur server apach reflect transport util impl method ibm ws classload servic nativ javax error main xml nativemethodaccessorimpl class
+23,finalmap initialmap,0.013208381,card groovyc securityst cac netti list channel finalmap initialmap 
+24,Jboss add mysql,,jboss org jar java name final modul jdbc driver datasourc connect mysql secur server jetti pool hibern class undertow true servic xml properti info

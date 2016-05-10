@@ -1,0 +1,193 @@
+id  names	rates	values
+1	maven dependency	Questions	1.69527442254715
+2	RSA Encryption	Questions	4.30175884721339
+3	authentation	Questions	5.66857385039203
+4	OS	Questions	4.41830896376351
+5	JavaScript and jQuery 	Questions	2.56410256410256
+6	Spring Security	Questions	0.932400932400932
+7	SSL	Questions	1.04895104895105
+8	jnlp	Questions	2.39457512184785
+9	Cipher suite	Questions	0.529773257045984
+10	applet application 	Questions	18.605636787455
+11	spring authentation	Questions	23.9775376139013
+12	Servlets and JSP	Questions	4.24878152150879
+13	Secure Password 	Questions	7.22610722610723
+14	java.awt.event	Questions	1.03835558381013
+15	signature	Questions	2.40517058698877
+16	spring security  and database	Questions	3.47531256622166
+17	ssl keystore	Questions	3.75079465988557
+18	microsoft metadata	Questions	0.307268489086671
+19	public private classes	Questions	5.14939605848697
+20	proxy	Questions	1.19728756092392
+21	SOAP	Questions	1.96016105107014
+22	Apache server	Questions	1.14431023521933
+23	finalmap initialmap	Questions	0.381436745073109
+24	Jboss add mysql	Questions	1.57872430599703
+25	maven dependency	Answers	84.375
+26	RSA Encryption	Answers	93.8423645320197
+27	authentation	Answers	82.803738317757
+28	OS	Answers	83.4532374100719
+29	JavaScript and jQuery 	Answers	89.6694214876033
+30	Spring Security	Answers	89.7727272727273
+31	SSL	Answers	86.8686868686869
+32	jnlp	Answers	73.8938053097345
+33	Cipher suite	Answers	82
+34	applet application 	Answers	87.4715261958998
+35	spring authentation	Answers	88.7759611135661
+36	Servlets and JSP	Answers	86.5336658354115
+37	Secure Password 	Answers	94.574780058651
+38	java.awt.event	Answers	81.6326530612245
+39	signature	Answers	84.5814977973568
+40	spring security  and database	Answers	83.2317073170732
+41	ssl keystore	Answers	87.2881355932203
+42	microsoft metadata	Answers	68.9655172413793
+43	public private classes	Answers	95.0617283950617
+44	proxy	Answers	83.1858407079646
+45	SOAP	Answers	76.7567567567568
+46	Apache server	Answers	79.6296296296296
+47	finalmap initialmap	Answers	77.7777777777778
+48	Jboss add mysql	Answers	87.9194630872483
+49	maven dependency	Replied	84.375
+50	RSA Encryption	Replied	93.8423645320197
+51	authentation	Replied	82.803738317757
+52	OS	Replied	83.4532374100719
+53	JavaScript and jQuery 	Replied	89.6694214876033
+54	Spring Security	Replied	89.7727272727273
+55	SSL	Replied	86.8686868686869
+56	jnlp	Replied	73.8938053097345
+57	Cipher suite	Replied	82
+58	applet application 	Replied	87.4715261958998
+59	spring authentation	Replied	88.7759611135661
+60	Servlets and JSP	Replied	86.5336658354115
+61	Secure Password 	Replied	94.574780058651
+62	java.awt.event	Replied	81.6326530612245
+63	signature	Replied	84.5814977973568
+64	spring security  and database	Replied	83.2317073170732
+65	ssl keystore	Replied	87.2881355932203
+66	microsoft metadata	Replied	68.9655172413793
+67	public private classes	Replied	95.0617283950617
+68	proxy	Replied	83.1858407079646
+69	SOAP	Replied	76.7567567567568
+70	Apache server	Replied	79.6296296296296
+71	finalmap initialmap	Replied	77.7777777777778
+72	Jboss add mysql	Replied	87.9194630872483
+73	maven dependency	Accepted	40.625
+74	RSA Encryption	Accepted	55.6650246305419
+75	authentation	Accepted	47.2897196261682
+76	OS	Accepted	52.757793764988
+77	JavaScript and jQuery 	Accepted	54.5454545454545
+78	Spring Security	Accepted	54.5454545454545
+79	SSL	Accepted	41.4141414141414
+80	jnlp	Accepted	44.6902654867257
+81	Cipher suite	Accepted	46
+82	applet application 	Accepted	53.3599088838269
+83	spring authentation	Accepted	51.7012814847548
+84	Servlets and JSP	Accepted	49.3765586034913
+85	Secure Password 	Accepted	58.3577712609971
+86	java.awt.event	Accepted	30.6122448979592
+87	signature	Accepted	50.6607929515419
+88	spring security  and database	Accepted	44.2073170731707
+89	ssl keystore	Accepted	51.1299435028249
+90	microsoft metadata	Accepted	44.8275862068966
+91	public private classes	Accepted	70.5761316872428
+92	proxy	Accepted	38.0530973451327
+93	SOAP	Accepted	49.7297297297297
+94	Apache server	Accepted	43.5185185185185
+95	finalmap initialmap	Accepted	50
+96	Jboss add mysql	Accepted	48.3221476510067
+97	maven dependency	Unanswered	41.875
+98	RSA Encryption	Unanswered	30.5418719211823
+99	authentation	Unanswered	33.6448598130841
+100	OS	Unanswered	28.537170263789
+101	JavaScript and jQuery 	Unanswered	31.404958677686
+102	Spring Security	Unanswered	34.0909090909091
+103	SSL	Unanswered	44.4444444444444
+104	jnlp	Unanswered	27.8761061946903
+105	Cipher suite	Unanswered	34
+106	applet application 	Unanswered	30.0683371298405
+107	spring authentation	Unanswered	33.2744144940345
+108	Servlets and JSP	Unanswered	35.9102244389027
+109	Secure Password 	Unanswered	28.0058651026393
+110	java.awt.event	Unanswered	44.8979591836735
+111	signature	Unanswered	32.15859030837
+112	spring security  and database	Unanswered	38.109756097561
+113	ssl keystore	Unanswered	35.0282485875706
+114	microsoft metadata	Unanswered	24.1379310344828
+115	public private classes	Unanswered	21.8106995884774
+116	proxy	Unanswered	44.2477876106195
+117	SOAP	Unanswered	25.4054054054054
+118	Apache server	Unanswered	35.1851851851852
+119	finalmap initialmap	Unanswered	27.7777777777778
+120	Jboss add mysql	Unanswered	38.9261744966443
+121	maven dependency	Favorite	19.375
+122	RSA Encryption	Favorite	33.743842364532
+123	authentation	Favorite	32.5233644859813
+124	OS	Favorite	25.6594724220624
+125	JavaScript and jQuery 	Favorite	22.7272727272727
+126	Spring Security	Favorite	32.9545454545455
+127	SSL	Favorite	14.1414141414141
+128	jnlp	Favorite	23.0088495575221
+129	Cipher suite	Favorite	24
+130	applet application 	Favorite	27.2779043280182
+131	spring authentation	Favorite	30.7998232434821
+132	Servlets and JSP	Favorite	29.426433915212
+133	Secure Password 	Favorite	31.3782991202346
+134	java.awt.event	Favorite	13.265306122449
+135	signature	Favorite	33.4801762114537
+136	spring security  and database	Favorite	29.2682926829268
+137	ssl keystore	Favorite	31.0734463276836
+138	microsoft metadata	Favorite	24.1379310344828
+139	public private classes	Favorite	41.1522633744856
+140	proxy	Favorite	14.1592920353982
+141	SOAP	Favorite	30.8108108108108
+142	Apache server	Favorite	26.8518518518519
+143	finalmap initialmap	Favorite	25
+144	Jboss add mysql	Favorite	27.5167785234899
+145	maven dependency	NoResponse	15.625
+146	RSA Encryption	NoResponse	6.1576354679803
+147	authentation	NoResponse	17.196261682243
+148	OS	NoResponse	16.5467625899281
+149	JavaScript and jQuery 	NoResponse	10.3305785123967
+150	Spring Security	NoResponse	10.2272727272727
+151	SSL	NoResponse	13.1313131313131
+152	jnlp	NoResponse	26.1061946902655
+153	Cipher suite	NoResponse	18
+154	applet application 	NoResponse	12.5284738041002
+155	spring authentation	NoResponse	11.2240388864339
+156	Servlets and JSP	NoResponse	13.4663341645885
+157	Secure Password 	NoResponse	5.42521994134897
+158	java.awt.event	NoResponse	18.3673469387755
+159	signature	NoResponse	15.4185022026432
+160	spring security  and database	NoResponse	16.7682926829268
+161	ssl keystore	NoResponse	12.7118644067797
+162	microsoft metadata	NoResponse	31.0344827586207
+163	public private classes	NoResponse	4.93827160493827
+164	proxy	NoResponse	16.8141592920354
+165	SOAP	NoResponse	23.2432432432432
+166	Apache server	NoResponse	20.3703703703704
+167	finalmap initialmap	NoResponse	22.2222222222222
+168	Jboss add mysql	NoResponse	12.0805369127517
+169	maven dependency	Unrelated	1.875
+170	RSA Encryption	Unrelated	7.63546798029557
+171	authentation	Unrelated	1.86915887850467
+172	OS	Unrelated	2.15827338129496
+173	JavaScript and jQuery 	Unrelated	3.71900826446281
+174	Spring Security	Unrelated	1.13636363636364
+175	SSL	Unrelated	1.01010101010101
+176	jnlp	Unrelated	1.32743362831858
+177	Cipher suite	Unrelated	2
+178	applet application 	Unrelated	4.04328018223235
+179	spring authentation	Unrelated	3.80026513477684
+180	Servlets and JSP	Unrelated	1.24688279301746
+181	Secure Password 	Unrelated	8.21114369501466
+182	java.awt.event	Unrelated	6.12244897959184
+183	signature	Unrelated	1.76211453744493
+184	spring security  and database	Unrelated	0.914634146341463
+185	ssl keystore	Unrelated	1.12994350282486
+186	microsoft metadata	Unrelated	3.44827586206897
+187	public private classes	Unrelated	2.67489711934156
+188	proxy	Unrelated	0.884955752212389
+189	SOAP	Unrelated	1.62162162162162
+190	Apache server	Unrelated	0.925925925925926
+191	finalmap initialmap	Unrelated	2.77777777777778
+192	Jboss add mysql	Unrelated	0.671140939597315
